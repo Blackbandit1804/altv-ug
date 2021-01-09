@@ -4,6 +4,9 @@ resources
 .vscode
 *.dll
 *.exe
+*.so
+*.so.72
+*.sh
 update.json
 modules/
 data/
